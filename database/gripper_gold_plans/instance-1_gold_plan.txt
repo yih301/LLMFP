@@ -1,0 +1,6 @@
+(pick robot_0 object_1 room_1 gripper_0)
+(pick robot_0 object_3 room_1 gripper_1)
+(move robot_0 room_1 room_0)
+(drop robot_0 object_1 room_0 gripper_0)
+(drop robot_0 object_3 room_0 gripper_1)
+; cost = 5 (unit cost)
